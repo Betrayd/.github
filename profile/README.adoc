@@ -1,0 +1,30 @@
+== About Betrayd
+It's a recreation of Gmod's Trouble in Terrorist Town (TTT) - in Minecraft!
+
+We are a small group of people who enjoy TTT and Minecraft, so we decided to bring them together. +
+Using custom plugins, a custom resource pack, and amazing maps we strive to bring truly unique gameplay to Minecraft with custom-coded and designed guns, hats, and more!
+
+=== The team
+
+[cols="1,1,1,1,1,1"]
+|===
+
+|image:https://visage.surgeplay.com/face/512/c831ec7e76d7449681b3d2c2ca02420a.png[skin,64]
+|*Da0neDatGotAway* +
+Developer
+|image:https://visage.surgeplay.com/face/512/97883084079d4c4d94cce6db9e3120af.png[skin,64]
+|*yo314159at* +
+Developer & Artist
+|image:https://visage.surgeplay.com/face/512/d2d88b3256eb409aaf48307f1c76455e.png[skin,64]
+|*Igrium* +
+Developer
+
+|image:https://visage.surgeplay.com/face/512/c78697b6036e405e94becfe3e0359dfd.png[skin,64]
+|*callmeJjam*      +
+Builder
+|image:https://visage.surgeplay.com/face/512/cc95f55b7eac4039adfdcdc0fe2abc23.png[skin,64]
+|*CreativeArtSpace* +
+Builder
+|image:https://visage.surgeplay.com/face/512/c31842a0f8194ed78e48e60b82e3436f.png[skin,64]
+|*\_Breadloaf_*    +
+Builder
