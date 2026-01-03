@@ -1,10 +1,10 @@
-== About Betrayd
+= About Betrayd
 It's a recreation of Gmod's Trouble in Terrorist Town (TTT) - in Minecraft!
 
 We are a small group of people who enjoy TTT and Minecraft, so we decided to bring them together. +
 Using custom plugins, a custom resource pack, and amazing maps we strive to bring truly unique gameplay to Minecraft with custom-coded and designed guns, hats, and more!
 
-=== The team
+== The team
 
 [cols="1,1,1,1,1,1"]
 |===
